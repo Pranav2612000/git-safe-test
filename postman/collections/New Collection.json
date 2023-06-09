@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "38a22a51-27aa-4482-8cff-698b4dbc5630",
+		"_postman_id": "6f71f5dd-fbf9-43f5-a7c5-bfafbb9bb1f4",
 		"name": "New Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "1030538-38a22a51-27aa-4482-8cff-698b4dbc5630"
+		"_uid": "1030538-6f71f5dd-fbf9-43f5-a7c5-bfafbb9bb1f4"
 	},
 	"item": [
 		{
@@ -12,15 +12,15 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "564fb761-d050-41c3-ae8e-76da9ab719ad",
+						"id": "3f5b7030-f78b-4d2e-a58d-21ff7d398fd4",
 						"exec": [
-							"ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00"
+							""
 						],
 						"type": "text/javascript"
 					}
 				}
 			],
-			"id": "1a3334c2-1735-4200-838a-c1f5c4bcbac8",
+			"id": "4e0d20f1-78ee-435a-98f9-ea21f8540b33",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
