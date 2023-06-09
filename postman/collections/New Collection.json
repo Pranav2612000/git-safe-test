@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "6f71f5dd-fbf9-43f5-a7c5-bfafbb9bb1f4",
+		"_postman_id": "dbcd48b5-cfb4-45f4-931e-dbe5a57909a9",
 		"name": "New Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "1030538-6f71f5dd-fbf9-43f5-a7c5-bfafbb9bb1f4"
+		"_uid": "1030538-dbcd48b5-cfb4-45f4-931e-dbe5a57909a9"
 	},
 	"item": [
 		{
@@ -12,7 +12,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "3f5b7030-f78b-4d2e-a58d-21ff7d398fd4",
+						"id": "f6a2b34c-a0dd-4162-9812-83d8657073ec",
 						"exec": [
 							""
 						],
@@ -20,7 +20,7 @@
 					}
 				}
 			],
-			"id": "4e0d20f1-78ee-435a-98f9-ea21f8540b33",
+			"id": "1164b0b6-b9e2-4b57-9138-be58acc2ca04",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},

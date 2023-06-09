@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "a095bd5a-2ebd-449b-8197-2224fc15b37a",
+		"_postman_id": "166ec816-f951-45c1-a944-ab579a7ca01f",
 		"name": "Vulnerable Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "1030538-a095bd5a-2ebd-449b-8197-2224fc15b37a"
+		"_uid": "1030538-166ec816-f951-45c1-a944-ab579a7ca01f"
 	},
 	"item": [
 		{
 			"name": "New Request",
-			"id": "6aca28e3-815a-4d01-974d-7085d32bbc18",
+			"id": "f3cd43e3-1038-4d16-a57e-921d3558cca6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
