@@ -22,7 +22,14 @@
 					}
 				],
 				"url": {
-					"raw": ""
+					"raw": "?ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00",
+					"query": [
+						{
+							"key": "ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00",
+							"value": null,
+							"type": "text"
+						}
+					]
 				}
 			},
 			"response": []
