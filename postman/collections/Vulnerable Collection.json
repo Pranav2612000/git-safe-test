@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "b5e53d71-2d78-4a3c-ad82-0b7e710403b7",
+		"name": "Vulnerable Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "1030538-b5e53d71-2d78-4a3c-ad82-0b7e710403b7"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "6c54dce6-21f5-4094-8391-68cc340322dd",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00",
+					"host": [
+						"ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
