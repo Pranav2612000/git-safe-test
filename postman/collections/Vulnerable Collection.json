@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "a095bd5a-2ebd-449b-8197-2224fc15b37a",
+		"_postman_id": "a24a6b4f-1509-44b1-9624-1224a1a62543",
 		"name": "Vulnerable Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "1030538-a095bd5a-2ebd-449b-8197-2224fc15b37a"
+		"_uid": "1030538-a24a6b4f-1509-44b1-9624-1224a1a62543"
 	},
 	"item": [
 		{
 			"name": "New Request",
-			"id": "6aca28e3-815a-4d01-974d-7085d32bbc18",
+			"id": "1aeb953c-a80b-4fa8-82fb-4760f4112a18",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -22,12 +22,11 @@
 					}
 				],
 				"url": {
-					"raw": "?ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00",
+					"raw": "?",
 					"query": [
 						{
-							"key": "ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO00",
-							"value": null,
-							"type": "text"
+							"key": "",
+							"value": null
 						}
 					]
 				}
