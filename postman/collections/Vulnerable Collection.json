@@ -22,11 +22,11 @@
 					}
 				],
 				"url": {
-					"raw": "?<key>",
+					"raw": "?<key>=ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO02",
 					"query": [
 						{
 							"key": "<key>",
-							"value": null
+							"value": "ghp_V2HbMtgO0j4XoEKyH65Wa49TLargH00bAO02"
 						}
 					]
 				}
